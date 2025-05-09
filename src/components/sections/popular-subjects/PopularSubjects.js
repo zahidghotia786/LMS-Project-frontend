@@ -329,7 +329,7 @@ const PopularSubjects = () => {
                   anytime, anywhere.
                 </p>
                 <p className="text-sm md:text-base leading-7 text-contentColor dark:text-contentColor-dark mb-10 pl-3 border-l-[3px] border-secondaryColor">
-                  Whether you're interested in technology, business, design, or
+                  Whether {"you're"} interested in technology, business, design, or
                   personal development, our courses — complete with videos,
                   PDFs, quizzes, and assignments — are tailored to give you
                   real-world skills that matter.
